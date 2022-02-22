@@ -4,5 +4,6 @@
 
 1. [rudi](https://github.com/rudi)
 2. [feri](https://github.com/alfajri23)
-3. [jhon](https://github.com/jhonmicc)
-4.
+3. [Adinda Fadhil Patria](https://github.com/didapatria)
+4. [jhon](https://github.com/jhonmicc)
+5.
