@@ -7,3 +7,4 @@
 3. [Adinda Fadhil Patria](https://github.com/didapatria)
 4. [jhon](https://github.com/jhonmicc)
 5. [Devina Gunawan](https://github.com/Cassiopeia316)
+6. [Arif Khairunnas](https://github.com/arifkhrnns)
