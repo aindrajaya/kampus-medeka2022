@@ -7,4 +7,16 @@
 3. [Adinda Fadhil Patria](https://github.com/didapatria)
 4. [jhon](https://github.com/jhonmicc)
 5. [Devina Gunawan](https://github.com/Cassiopeia316)
-6. [Tegar Sukma Hendrana](https://github.com/Tegarshndrn)
+
+
+
+
+
+
+
+
+
+
+
+
+17. [Tegar Sukma Hendrana](https://github.com/Tegarshndrn)
