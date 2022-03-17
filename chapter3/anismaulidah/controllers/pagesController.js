@@ -4,3 +4,7 @@ exports.home = (req, res) => {
   
   res.render("index", { title, subTitle });
 };
+
+exports.about = (req, res) => {
+  res.render("about", { title: "About" });
+};
