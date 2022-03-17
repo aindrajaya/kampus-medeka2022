@@ -1,0 +1,14 @@
+{
+  "name": "agungadityatama",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "halo tes tes"
+  },
+  "author": "AgungAdityatama",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
