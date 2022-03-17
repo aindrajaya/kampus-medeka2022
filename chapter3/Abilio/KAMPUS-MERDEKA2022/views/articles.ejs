@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+  <%- include("partials/head.ejs"); %> 
+  <body>
+    <%- include("partials/navbar.ejs"); %> 
+    <div class="container m-4">
+      <% articles.forEach(i => { %> <% if (i.approverd) { %> 
+          <div class="container mb-2">
+            <h1>
+              <%= i.title %> <span class="badge bg-primary"><%= i.id %> </span>
+            </h1>
+            <p><%= i.body %> </p>
+          </div>
+        <% }; %> 
+      <% }); %> 
+
+    </div>
+  </body>
+</html>
