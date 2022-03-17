@@ -1,0 +1,11 @@
+<%- include("partials/head") %>
+<%- include("partials/nav") %>
+<div class="container m-4">
+    <% articles.forEach(i => { %> <% if(i.approved){ %> 
+        <div class="container mb-2">
+            <h1 class="display-4"><%= i.title %> <span class="badge bg-primary"><%= i.id %></span></h1>
+            <p><%= i.body %> </p>
+        </div>
+    <% } %> <% }) %> 
+</div>
+<%- include("partials/footer") %>

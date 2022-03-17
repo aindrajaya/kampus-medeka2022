@@ -16,7 +16,7 @@ router.get('/main', (req, res) => {
 
 router.get('/about', (req, res) => {
   res.render('about', {
-    title: "Halaman Main",
+    title: "Halaman About Kevin",
     name: "Kevin"
   })
 })
