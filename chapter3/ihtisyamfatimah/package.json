@@ -1,0 +1,20 @@
+{
+  "name": "ihtisyamfatimah",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "bin": {
+    "ihtisyamfatimah": "bin/cc.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nature"
+  ],
+  "author": "asyima37",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
